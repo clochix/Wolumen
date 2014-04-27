@@ -1,0 +1,16 @@
+{
+  "name": "wolumen",
+  "version": "0.0.0",
+  "description": "extract data from RDF files from Project Gutenberg",
+  "main": "compile.js",
+  "dependencies": {
+    "xpath": "~0.0.6",
+    "xmldom": "~0.1.19"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Clochix",
+  "license": "GPL"
+}
